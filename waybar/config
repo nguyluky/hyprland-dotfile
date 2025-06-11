@@ -1,0 +1,110 @@
+{
+    "modules-left": ["hyprland/workspaces", "cpu", "custom/mem", "temperature"],
+    "modules-center": ["custom/clock", "custom/media"],
+    "modules-right": ["network", "pulseaudio", "backlight", "battery", "tray"],
+
+    "hyprland/workspaces": {
+        "disable-scroll": true
+    },
+
+    "pulseaudio": {
+        "reverse-scrolling": 1,
+        "format": "{volume}% {icon}  {format_source}",
+        "format-bluetooth": "{volume}% {icon} {format_source}",
+        "format-bluetooth-muted": " {icon} {format_source}",
+        "format-muted": "  {format_source}",
+        "format-source": "{volume}% ",
+        "format-source-muted": "",
+        "format-icons": {
+            "headphone": "",
+            "hands-free": "",
+            "headset": "",
+            "phone": "",
+            "portable": "",
+            "car": "",
+            "default": ["", "", ""]
+        },
+        "on-click":"pactl set-sink-mute @DEFAULT_SINK@ toggle",
+        "on-click-right": "pulseaudio",
+    },
+
+    "custom/mem": {
+        "format": "{}",
+        "interval": 3,
+        "exec": "free -h | awk '/Mem:/{printf $3}'",
+        "tooltip": false,
+    },
+
+    "temperature": {
+        "hwmon-path": "/sys/class/hwmon/hwmon3/temp1_input",
+        "critical-threshold": 80,
+        "format": "{temperatureC}°C {icon}",
+        "format-icons": ["", "", "", "", ""],
+        "tooltip": false,
+    },
+
+    "backlight": {
+        "device": "intel_backlight",
+        "format": "{percent}% {icon}",
+        "format-icons": ["", "", "", "", "", "", "", "", ""],
+        "min-length": 7,
+        "on-scroll-down": "~/.config/hypr/script/change_backlight.sh decrease",
+        "on-scroll-up": "~/.config/hypr/script/change_backlight.sh increase"
+    },
+
+    "battery": {
+        "states": {
+            "warning": 30,
+            "critical": 15
+        },
+        "format": "{capacity}% {icon}",
+        "format-charging": "{capacity}% ",
+        "format-plugged": "{capacity}% ",
+        "format-alt": "{time} {icon}",
+        "on-update": "$HOME/.config/waybar/scripts/check_battery.sh",
+        "format-icons": ["", "", "", "", ""]
+    },
+
+
+    "tray": {
+        "icon-size": 16,
+        "spacing": 8
+    },
+
+    "cpu": {
+        "format": "{usage}% ",
+        "tooltip": true,
+        "interval": 1
+    },
+
+    "network": {
+        "format-wifi": "{essid} ({signalStrength}%) ",
+        "format-ethernet": "{ipaddr}/{cidr} ",
+        "tooltip-format": "{ifname} via {gwaddr} ",
+        "format-linked": "{ifname} (No IP) ",
+        "format-disconnected": "Disconnected ⚠",
+        "format-alt": "{ifname}: {ipaddr}/{cidr}",
+        "on-click": "nm-connection-editor"
+    },
+    
+    "custom/media": {
+        "format": "{icon} {text}",
+        "return-type": "json",
+        "max-length": 40,
+        "format-icons": {
+            "spotify": "",
+            "default": "🎜"
+        },
+        "escape": true,
+        "interval": 3,
+        "exec": "$HOME/.config/waybar/scripts/mediaplayer.py 2> /dev/null",
+        "on-click": "playerctl play-pause"
+    },
+
+    "custom/clock": {
+        "exec": "$HOME/.config/waybar/scripts/custom_clock.py",
+        "return-type": "json",
+        "interval": 1,
+        "on-click": "gnome-calendar"
+    }
+}

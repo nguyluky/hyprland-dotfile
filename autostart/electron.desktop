@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=electron
+Comment=electronstartup script
+Exec=/home/luky/.local/share/Zalo/electron/electron
+StartupNotify=false
+Terminal=false

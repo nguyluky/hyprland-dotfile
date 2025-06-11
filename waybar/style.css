@@ -1,0 +1,179 @@
+* {
+    font-family: "JetbrainsMono Nerd Font" ;
+    font-size: 12px;
+    border: none;
+    border-radius: 0;
+    min-height: 0;
+    margin: 0;
+    padding: 0;
+}
+
+window#waybar {
+    /* background: rgba(21, 18, 27, 0.8); */
+    background: transparent;
+    color: #cdd6f4;
+    transition-property: background-color;
+    transition-duration: .5s;
+}
+
+window#waybar.hidden {
+    opacity: 0.2;
+}
+
+#workspaces {
+    background: rgba(22, 19, 32, 0.85);
+    margin: 2px 2px;
+    padding: 0 2px;
+    border-radius: 6px;
+    font-weight: normal;
+}
+
+#workspaces button {
+    padding: 0 2px;
+    color: #cdd6f4;
+    border-bottom: 2px solid transparent;
+    margin: 2px 0;
+}
+
+#workspaces button.active {
+    color: #74c7ec;
+    border-bottom: 2px solid #74c7ec;
+}
+
+#workspaces button:hover {
+    background: rgba(0, 0, 0, 0.2);
+    color: #cdd6f4;
+    border-bottom: 2px solid #cdd6f4;
+}
+
+/* System monitoring modules */
+#cpu,
+#custom-mem,
+#temperature {
+    background-color: rgba(30, 30, 46, 0.85);
+    color: #a6e3a1;
+    margin: 2px 0;
+    margin-left: 2px;
+    border-radius: 6px;
+    padding: 0 6px;
+    font-weight: bold;
+}
+
+#cpu {
+    color: #fab387;
+}
+
+#temperature {
+    color: #f9e2af;
+}
+
+#temperature.critical {
+    color: #f38ba8;
+    animation: blink 1s infinite alternate;
+}
+
+/* Center modules */
+#custom-clock,
+#custom-media {
+    background-color: rgba(30, 30, 46, 0.85);
+    padding: 0 8px;
+    margin: 2px;
+    border-radius: 6px;
+}
+
+#custom-clock {
+    color: #89dceb;
+    font-weight: bold;
+    font-size: 13px;
+    /* text-align: center; */
+    min-width: 140px;
+}
+
+#custom-media {
+    color: #f5c2e7;
+    font-style: italic;
+}
+
+/* Right modules */
+#network,
+#pulseaudio,
+#backlight,
+#battery,
+#tray {
+    background-color: rgba(30, 30, 46, 0.85);
+    padding: 0 6px;
+    margin: 2px;
+    border-radius: 6px;
+}
+
+#network {
+    color: #89b4fa;
+}
+
+#network.disconnected {
+    color: #f38ba8;
+}
+
+#pulseaudio {
+    color: #74c7ec;
+}
+
+#pulseaudio.muted {
+    color: #f38ba8;
+}
+
+#backlight {
+    color: #f9e2af;
+}
+
+#battery {
+    color: #a6e3a1;
+}
+
+#battery.charging {
+    color: #a6e3a1;
+}
+
+#battery.warning:not(.charging) {
+    color: #f9e2af;
+}
+
+#battery.critical:not(.charging) {
+    animation-name: blink;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    color: #f38ba8;
+}
+
+@keyframes blink {
+    to {
+        background-color: #f38ba8;
+        color: #1e1e2e;
+    }
+}
+
+#tray {
+    background-color: rgba(30, 30, 46, 0.85);
+}
+
+#tray > .passive {
+    -gtk-icon-effect: dim;
+}
+
+#tray > .needs-attention {
+    -gtk-icon-effect: highlight;
+    background-color: #f38ba8;
+}
+
+tooltip {
+    background: rgba(30, 30, 46, 0.9);
+    border: 1px solid #74c7ec;
+    border-radius: 6px;
+}
+
+tooltip label {
+    color: #cdd6f4;
+    padding: 2px;
+}

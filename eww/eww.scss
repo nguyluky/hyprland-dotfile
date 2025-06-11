@@ -1,0 +1,265 @@
+
+* {
+  all: unset; // Unsets everything so you can style everything from scratch
+}
+
+window.notifications {
+  background-color: transparent;
+  border: none;
+}
+
+.notifications-container {
+    padding: 8px;
+}
+
+.notification-card {
+  min-width: 320px;
+  background-color: rgba(47, 50, 61, 0.95);
+  border-radius: 12px;
+  padding: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+  color: #c6d0f5;
+  margin: 0;
+}
+
+.notification-header {
+  padding-bottom: 8px;
+//   border-bottom: 1px solid #414559;
+}
+
+.app-name {
+  font-weight: bold;
+  font-size: 16px;
+  color: #8caaee;
+}
+
+.notification-title {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.action-button {
+  background-color: #414559;
+  border-radius: 8px;
+  font-weight: bold;
+  border: none;
+  color: #c6d0f5;
+}
+
+.action-button:hover {
+  background-color: #51576d;
+}
+
+.no-notifications {
+  min-height: 1px;
+}
+
+.notification-progress {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  min-height: 8px;
+  background-color: red;
+  border-radius: 4px;
+}
+
+.notification-progress trough {
+  background-color: #414559;
+  border-radius: 4px;
+  min-height: 8px;
+}
+
+.notification-progress progress {
+  background-color: #8caaee;
+  border-radius: 4px;
+  min-height: 8px;
+}
+
+.notification-time {
+    font-size: 12px;
+    color: rgba(140, 169, 238, 0.623);
+    margin-top: 4px;
+}
+
+.app-icon-container {
+    border-radius: 10px;
+    background-color: red;
+}
+
+.bluetooth-panel {
+  background-color: rgba(47, 50, 61, 0.95);
+  color: #c6d0f5;
+  padding: 14px;
+  border-radius: 12px;
+  min-width: 320px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+}
+
+.bluetooth-header {
+  font-weight: bold;
+  font-size: 1.1em;
+//   margin-bottom: 12px;
+}
+
+.bluetooth-title {
+  font-size: 17px;
+  color: #8caaee;
+}
+
+.bluetooth-toggle .toggle {
+  padding: 2px 10px;
+  border-radius: 16px;
+  background-color: #414559;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.bluetooth-toggle .toggle.active {
+  background-color: #8caaee;
+}
+
+.section-title {
+  font-size: 14px;
+//   margin-top: 8px;
+  margin-bottom: 6px;
+  color: #c6d0f5;
+  font-weight: bold;
+}
+
+.bluetooth-device {
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 6px;
+}
+
+.bluetooth-device:hover {
+  background-color: #414559;
+}
+
+.bluetooth-device.connected {
+  background-color: rgba(140, 170, 238, 0.15);
+}
+
+.device-name {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.device-status {
+  font-size: 11px;
+  color: #a5adce;
+}
+
+.device-battery {
+  color: #a6d189;
+  font-weight: 500;
+}
+
+.device-action {
+  font-size: 12px;
+  padding: 4px 10px;
+  border-radius: 8px;
+  background-color: #414559;
+  color: #c6d0f5;
+  font-weight: bold;
+}
+
+.device-action:hover {
+  background-color: #51576d;
+}
+
+.separator {
+  background-color: #414559;
+//   height: 1px;
+  margin: 8px 0;
+}
+
+.scan-button {
+  font-size: 13px;
+  padding: 8px;
+  border-radius: 10px;
+  background-color: #414559;
+  color: #c6d0f5;
+//   margin-top: 12px;
+  font-weight: bold;
+}
+
+.scan-button:hover {
+  background-color: #51576d;
+}
+
+.scan-progress {
+  color: #8caaee;
+  min-width: 18px;
+  min-height: 18px;
+}
+
+/* Backlight Panel Styling - Updated */
+.backlight-panel {
+  background-color: rgba(47, 50, 61, 0.95);
+  color: #c6d0f5;
+  padding: 6px;
+  border-radius: 12px;
+  min-width: 320px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+}
+
+.backlight-icon {
+  color: #f9e2af;
+}
+
+.backlight-percentage {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.backlight-slider {
+    background-color: #414559;
+    border-radius: 10px;
+}
+
+.backlight-slider trough {
+  background-color: #414559;
+  border-radius: 10px;
+}
+
+.backlight-slider highlight {
+  background-color: #f9e2af;
+  border-radius: 10px;
+}
+
+.backlight-slider slider {
+  border-radius: 10px;
+  min-width: 16px;
+  min-height: 40px;
+}
+
+.backlight-presets {
+  margin-top: 10px;
+}
+
+.preset-button {
+  padding: 8px;
+  border-radius: 8px;
+  background-color: #414559;
+}
+
+.preset-button:hover {
+  background-color: #51576d;
+}
+
+.preset-button label {
+  font-size: 12px;
+}
+
+
+.backlight-percentage-overlay {
+    font-weight: bold;
+}
+
+.backlight-percentage-overlay.high {
+    color: rgba(0, 0, 0, 0.555)
+}
+
+.notification-body-text {
+    background: red;
+}
