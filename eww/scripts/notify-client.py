@@ -173,6 +173,10 @@ def main():
                             # Generate and print Yuck
                             yuck_output = make_yuck(parsed_data)
                             print(yuck_output, flush=True)
+                            # why ????
+                            time.sleep(0.1) 
+                            print(yuck_output, flush=True)
+                            
                         except json.JSONDecodeError as e:
                             logger.error(f"JSON decode error: {e}")
                         except Exception as e:

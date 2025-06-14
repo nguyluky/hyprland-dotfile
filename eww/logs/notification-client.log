@@ -1324,3 +1324,28 @@
 2025-06-11 21:05:43,232 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
 2025-06-11 21:05:48,237 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
 2025-06-11 21:05:48,237 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-11 22:38:05,476 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-14 14:16:25,842 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-14 14:16:28,599 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-14 14:16:41,857 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-14 14:44:29,893 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-14 14:46:12,590 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-14 14:57:16,074 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-14 14:59:49,581 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-14 14:59:54,008 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-14 15:51:51,352 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-14 15:57:54,359 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-14 15:58:07,158 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-14 16:29:32,717 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-14 16:31:20,924 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-14 16:31:27,844 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-14 16:34:45,734 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-14 16:34:48,044 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-14 16:36:41,675 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-14 16:36:44,096 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-14 16:36:55,251 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-14 16:38:12,849 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-14 16:43:41,120 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-14 16:44:08,806 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-14 16:44:53,328 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-14 16:44:54,304 - eww-notification-client - INFO - Connected to notification daemon socket
