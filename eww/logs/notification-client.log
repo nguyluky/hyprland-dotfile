@@ -1349,3 +1349,1321 @@
 2025-06-14 16:44:08,806 - eww-notification-client - INFO - Connected to notification daemon socket
 2025-06-14 16:44:53,328 - eww-notification-client - INFO - Connected to notification daemon socket
 2025-06-14 16:44:54,304 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-14 23:22:19,483 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-14 23:40:35,282 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 11:01:27,090 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-15 11:01:27,090 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 11:01:27,090 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 11:01:28,091 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 11:01:28,091 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 11:01:29,091 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 11:01:29,091 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 11:01:30,092 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 11:01:30,092 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 11:01:31,092 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 11:01:31,093 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 11:01:31,093 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 11:01:33,093 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 11:01:33,093 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 11:01:34,094 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 11:01:34,094 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 11:01:35,094 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 11:01:35,094 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 11:01:36,095 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 11:01:36,095 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 11:01:37,095 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 11:01:38,618 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 11:07:00,435 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 11:08:00,496 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 11:52:25,308 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 11:52:30,312 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 11:52:35,947 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 11:52:36,287 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 11:52:40,952 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 11:52:41,289 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 11:52:44,309 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 11:52:49,313 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 11:52:54,680 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 11:52:57,099 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 11:52:57,101 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 11:53:02,106 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 12:53:16,561 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 13:35:35,979 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 13:35:36,743 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 13:35:41,719 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 13:35:54,700 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 13:35:59,706 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 13:38:09,015 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 13:38:13,666 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 13:38:18,677 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 13:58:02,754 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 13:58:07,767 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 13:58:18,684 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 13:58:23,695 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 13:59:18,131 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 13:59:18,646 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 13:59:23,136 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 13:59:24,805 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 13:59:40,404 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 13:59:41,998 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 14:20:15,196 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 14:20:20,203 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 14:22:29,623 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 14:22:34,630 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 14:22:54,450 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 14:22:59,462 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 14:29:35,883 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:30:21,031 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:30:22,077 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:31:42,477 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:33:44,242 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:33:50,433 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:34:31,879 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:34:40,670 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:35:58,287 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:36:01,137 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:37:06,128 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:39:12,344 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:40:31,486 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:45:04,880 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:45:42,154 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:46:18,604 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:46:22,961 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:46:52,686 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:46:53,979 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:48:56,594 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:53:39,129 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:53:44,215 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:53:50,098 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:54:45,888 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:54:59,621 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:55:11,578 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:55:15,771 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:55:21,715 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:55:25,807 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:55:35,606 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:56:27,877 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:57:30,634 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:57:35,242 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:58:17,533 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:58:37,349 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:59:31,723 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 14:59:52,240 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:00:00,338 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:00:10,136 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:00:16,258 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:01:12,456 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:01:28,439 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:01:47,943 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:01:55,304 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:02:06,003 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:02:19,386 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:02:50,660 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:02:54,586 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:03:05,561 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:03:07,376 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:03:14,560 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:03:26,393 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:03:30,925 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:03:38,293 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:04:16,096 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:04:18,203 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:04:30,620 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:04:42,019 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:04:43,752 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:04:59,598 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:05:02,641 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:05:11,369 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:05:13,693 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:05:15,990 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:05:27,382 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:05:30,736 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:05:42,709 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:06:25,791 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:06:50,805 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:07:01,748 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:07:06,073 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:07:25,416 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:07:38,109 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:07:43,165 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:07:53,450 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:08:12,303 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:08:15,598 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:08:53,416 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:09:01,071 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:09:10,550 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:09:12,326 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:09:20,545 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:11:28,504 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:11:50,925 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:12:00,042 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:13:34,326 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:13:41,878 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:13:47,223 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:13:50,794 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:14:02,664 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:14:06,759 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:14:13,077 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:14:14,246 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:14:29,206 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:14:31,868 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:14:49,524 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:14:57,970 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:15:00,460 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:15:08,677 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:15:15,427 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:15:17,228 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:15:24,191 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:15:27,902 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:15:45,649 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:15:48,511 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:15:56,405 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:16:20,132 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:16:29,908 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:16:57,374 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:17:00,777 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:17:06,816 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:17:16,410 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:17:22,398 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:17:27,626 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:31:14,064 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:31:17,280 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:31:27,169 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:31:35,145 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:31:46,362 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:31:49,249 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:31:53,692 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:31:59,715 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:32:03,088 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:32:28,943 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:32:33,052 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:38:33,978 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:38:48,489 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:38:57,150 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:39:34,111 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:39:42,647 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:39:47,495 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:39:54,651 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:39:57,888 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:40:31,137 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:41:27,230 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:41:40,084 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:41:41,597 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:41:45,394 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:42:04,876 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:42:07,455 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:42:25,287 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:42:30,632 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 15:42:34,667 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:19:56,632 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:20:10,196 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:21:31,352 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:21:44,766 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:21:46,374 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:22:29,029 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:26:17,873 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:26:22,951 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:26:25,290 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:26:56,415 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:27:13,335 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:27:15,899 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:27:44,854 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:27:54,197 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:28:12,989 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:28:29,115 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:28:39,474 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:28:42,452 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:28:45,188 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:28:49,366 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:29:12,595 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:32:10,991 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:32:13,563 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:34:26,003 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:35:02,988 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:35:05,735 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:35:11,974 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:35:18,387 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:35:46,396 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:36:33,226 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:38:51,104 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:40:08,312 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:40:21,690 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:40:29,002 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:40:30,750 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:40:51,220 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:40:55,382 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:43:40,231 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:43:44,238 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:44:24,597 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:44:26,176 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:44:59,032 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:45:05,249 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:46:37,639 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:46:39,062 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:46:47,848 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:46:57,112 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:47:42,906 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:48:34,388 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:48:52,885 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:49:45,666 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:49:47,660 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:50:03,729 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:50:32,587 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:51:04,555 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:51:12,025 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:51:25,418 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:51:29,613 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:52:25,990 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:52:33,819 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:52:37,120 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:52:44,042 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:52:54,426 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:53:04,092 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:53:08,384 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:53:48,615 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:54:01,455 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:54:34,495 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:55:11,806 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:55:27,828 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:55:52,027 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:56:30,288 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:56:45,091 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:56:58,629 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:57:24,954 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:57:29,569 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:57:51,424 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:58:17,336 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:58:21,663 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:58:30,274 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:58:43,723 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:58:47,489 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:58:53,859 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:59:22,213 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 18:59:25,615 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:00:03,217 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:00:18,415 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:00:22,032 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:01:37,757 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:01:47,713 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:01:51,655 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:02:00,761 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:02:02,048 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:02:04,539 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:02:19,923 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:02:36,784 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:02:57,040 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:03:10,145 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:03:13,727 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:14:08,336 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:14:19,546 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:15:18,130 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:15:22,053 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:16:55,281 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:17:47,091 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:17:54,832 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:18:02,147 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:18:33,767 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:18:49,810 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:19:51,948 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:20:05,387 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:20:47,438 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-15 19:20:47,438 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:20:47,439 - eww-notification-client - ERROR - Socket error: [Errno 104] Connection reset by peer
+2025-06-15 19:20:47,439 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-15 19:20:47,439 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 19:20:47,439 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:20:48,440 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 19:20:48,440 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:20:49,439 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 19:20:49,440 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:20:49,440 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 19:20:49,441 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:20:50,440 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 19:20:50,440 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:20:50,441 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 19:20:50,441 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:20:51,441 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 19:20:51,441 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:20:51,441 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 19:20:51,442 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 19:20:51,442 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 19:20:52,441 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 19:20:52,442 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:20:53,442 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 19:20:53,442 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 19:20:53,442 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 19:20:53,442 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 19:20:53,442 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:20:54,442 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 19:20:54,443 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:20:55,442 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:20:55,443 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:20:56,305 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:21:35,124 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:26:50,013 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:28:22,044 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:28:22,051 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:29:05,217 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:29:05,217 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:31:33,055 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:31:35,418 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:31:40,529 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:31:44,533 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:31:56,620 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:31:59,570 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:32:19,345 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:32:51,100 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:51,100 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:51,326 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:51,326 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:51,328 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:51,328 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:51,707 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:51,707 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:51,708 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:51,708 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:52,015 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:52,015 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:53,409 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:53,409 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:56,104 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:56,104 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:56,328 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:56,328 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:56,330 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:56,330 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:56,412 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:56,412 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:56,709 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:56,709 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:56,710 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:56,710 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:57,017 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:57,017 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:57,705 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:57,705 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:58,038 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:58,038 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:58,039 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:58,039 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:58,371 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:58,371 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:58,373 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:58,373 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:58,412 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:58,412 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:58,703 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:58,703 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:59,237 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:59,237 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:59,593 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:59,593 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:59,594 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:32:59,594 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:01,415 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:01,415 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:02,708 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:02,708 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:03,040 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:03,040 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:03,041 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:03,041 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:03,373 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:03,373 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:03,374 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:03,374 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:03,704 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:03,704 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:04,239 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:04,239 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:04,594 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:04,594 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:04,595 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:04,595 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:08,260 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:08,261 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:09,326 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:09,327 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:09,509 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:09,510 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:09,515 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:09,515 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:09,671 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:09,671 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:09,673 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:09,673 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:13,264 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:13,265 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:14,329 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:14,329 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:14,513 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:14,513 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:14,517 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:14,518 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:14,673 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:14,673 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:14,675 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:14,675 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:47,868 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:47,868 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:48,617 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:48,617 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:49,372 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:49,372 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:49,718 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:49,718 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:49,719 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:49,719 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:50,018 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:50,018 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:50,019 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:50,019 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:51,248 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:51,248 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:52,871 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:52,871 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:53,619 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:53,619 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:54,375 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:54,375 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:54,721 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:54,721 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:54,722 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:54,722 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:55,020 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:55,020 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:55,020 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:55,020 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:56,251 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:33:56,251 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:34:06,976 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-15 19:34:06,976 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-15 19:34:06,976 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-15 19:34:06,977 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:06,977 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:06,977 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:06,977 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:06,977 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:06,977 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:07,977 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:07,977 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:07,977 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:07,977 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:07,977 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:07,977 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:08,978 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:08,978 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:08,978 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:08,978 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:08,978 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:08,978 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:09,978 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:09,978 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:09,978 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:09,978 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:09,978 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:09,978 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:10,978 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:10,979 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:10,979 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 19:34:10,979 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:10,979 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 19:34:10,979 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 19:34:10,979 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 19:34:10,979 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 19:34:10,979 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 19:34:12,979 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:12,979 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:12,979 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:12,979 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:12,979 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:12,979 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:13,979 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:13,980 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:13,980 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:13,980 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:13,980 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:13,980 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:14,980 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:14,980 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:14,980 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:14,980 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:14,980 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:14,980 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:15,981 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:15,981 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:15,981 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:15,981 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:15,981 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:15,981 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:16,981 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:16,981 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 19:34:16,981 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:16,981 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:16,981 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 19:34:16,981 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 19:34:16,981 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 19:34:16,981 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 19:34:16,981 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 19:34:18,982 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:18,982 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:18,982 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:18,982 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:18,982 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:18,982 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:19,982 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:19,982 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:19,982 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 19:34:19,982 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:19,982 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:19,982 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:34:20,982 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:34:20,983 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:34:20,983 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:34:22,589 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:35:13,728 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:13,728 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:13,728 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:14,608 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:14,608 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:14,608 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:15,369 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:15,369 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:15,369 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:18,734 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:18,734 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:18,734 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:19,611 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:19,611 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:19,611 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:20,371 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:20,371 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:20,371 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:26,897 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:26,897 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:26,897 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:27,495 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:27,495 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:27,495 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:27,948 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:27,948 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:27,949 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:28,324 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:28,324 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:28,324 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:28,782 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:28,782 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:28,782 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:30,446 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:30,446 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:30,446 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:30,686 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:30,687 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:30,687 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:30,925 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:30,925 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:30,925 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:31,900 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:31,900 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:31,900 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:32,498 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:32,498 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:32,498 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:32,951 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:32,951 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:32,951 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:33,326 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:33,326 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:33,326 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:33,784 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:33,784 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:33,784 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:35,447 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:35,447 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:35,447 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:35,688 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:35,688 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:35,688 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:35,926 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:35,926 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:35:35,926 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:36:00,873 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-15 19:36:00,873 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-15 19:36:00,873 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-15 19:36:00,873 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-15 19:36:00,873 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:00,873 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:00,873 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:00,873 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:00,873 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:00,873 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:00,874 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:00,874 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:01,874 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:01,874 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:01,874 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:01,874 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:01,874 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:01,874 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:01,874 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:01,874 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:02,874 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:02,874 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:02,875 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:02,874 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:02,875 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:02,875 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:02,875 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:02,875 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:03,875 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:03,875 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:03,875 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:03,875 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:03,875 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:03,875 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:03,875 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:03,875 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:04,876 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:04,876 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:04,876 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:04,876 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:04,876 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 19:36:04,876 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 19:36:04,876 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 19:36:04,876 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 19:36:04,876 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 19:36:04,876 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 19:36:04,876 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 19:36:04,876 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 19:36:06,876 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:06,876 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:06,876 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:06,876 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:06,876 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:06,876 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:06,876 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:06,876 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:07,876 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:07,876 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:07,876 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:07,877 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:07,877 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:07,877 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:07,877 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:07,877 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:08,877 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:08,877 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:08,877 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:08,877 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 19:36:08,877 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:08,877 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:08,877 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:08,877 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 19:36:09,878 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:36:09,878 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:36:09,878 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:36:09,878 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:39:05,495 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:39:14,859 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:39:41,246 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:43:01,655 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:43:15,598 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:43:23,774 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:44:44,522 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:44:44,522 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:44:44,528 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:44:44,528 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:45:44,582 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:45:44,582 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:45:44,582 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:45:44,582 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:51:19,079 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 19:52:15,625 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:52:15,625 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:52:15,625 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:52:15,625 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:52:20,632 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:52:20,632 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:52:20,632 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:52:20,632 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 19:54:25,136 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 20:20:02,613 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 20:20:05,483 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 20:20:13,214 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 20:20:13,214 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 20:20:13,214 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 20:20:13,214 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 20:20:13,774 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 20:20:13,774 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 20:20:13,774 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 20:20:13,774 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 20:20:18,220 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 20:20:18,220 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 20:20:18,220 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 20:20:18,220 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 20:20:18,776 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 20:20:18,776 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 20:20:18,776 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 20:20:18,776 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 20:20:22,091 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 20:23:32,979 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 20:26:18,120 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 20:26:36,801 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 20:26:45,119 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 20:26:45,119 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 20:26:45,119 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 20:26:45,119 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 20:26:50,124 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 20:26:50,124 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 20:26:50,124 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 20:26:50,124 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-15 20:28:46,265 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 21:40:39,807 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 21:41:55,319 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 21:41:57,974 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 21:43:11,735 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 21:43:14,844 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 21:44:06,445 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-15 21:44:06,445 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-15 21:44:06,445 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-15 21:44:06,445 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:06,445 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:06,445 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:06,445 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:06,445 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:06,445 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:06,446 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-15 21:44:06,446 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:06,446 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:06,446 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-15 21:44:06,447 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:06,447 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:07,446 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:07,446 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:07,446 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:07,446 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:07,446 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:07,446 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:07,446 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:07,447 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:07,447 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:07,447 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:08,446 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:08,446 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:08,446 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:08,446 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:08,446 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:08,446 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:08,447 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:08,447 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:08,447 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:08,447 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:09,447 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:09,447 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:09,447 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:09,447 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:09,447 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:09,447 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:09,447 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:09,447 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:09,448 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:09,448 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:10,447 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:10,447 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:10,447 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:10,447 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 21:44:10,447 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 21:44:10,447 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 21:44:10,447 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 21:44:10,447 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 21:44:10,447 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 21:44:10,447 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:10,448 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 21:44:10,448 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 21:44:10,448 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:10,448 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 21:44:10,448 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 21:44:12,448 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:12,448 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:12,448 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:12,448 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:12,448 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:12,448 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:12,448 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:12,448 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:12,449 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:12,449 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:13,448 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:13,448 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:13,448 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:13,448 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:13,448 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:13,448 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:13,448 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:13,448 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:13,449 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:13,449 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:14,449 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:14,449 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:14,449 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:14,449 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:14,449 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:14,449 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:14,449 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:14,449 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:14,449 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:14,450 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:15,449 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:15,449 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:15,449 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:15,449 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:15,449 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:15,449 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:15,449 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:15,449 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:15,450 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 21:44:15,450 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:44:16,450 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 21:44:16,450 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 21:44:16,450 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 21:44:16,450 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 21:44:16,450 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 21:46:05,247 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-15 21:46:05,247 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-15 21:46:05,247 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-15 21:46:05,247 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-15 21:46:05,247 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-15 21:46:05,247 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:05,247 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:05,247 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:05,247 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:05,247 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:05,247 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:05,247 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:05,247 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:05,247 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:05,247 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:06,248 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:06,248 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:06,248 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:06,248 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:06,248 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:06,248 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:06,248 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:06,248 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:06,248 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:06,248 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:07,248 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:07,248 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:07,248 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:07,248 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:07,248 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:07,248 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:07,248 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:07,248 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:07,249 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:07,249 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:08,249 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:08,249 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:08,249 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:08,249 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:08,249 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:08,249 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:08,249 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:08,249 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:08,249 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:08,249 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:09,249 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:09,250 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 21:46:09,249 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:09,249 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:09,250 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 21:46:09,250 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 21:46:09,250 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 21:46:09,250 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:09,250 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:09,250 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 21:46:09,250 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 21:46:09,250 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 21:46:09,250 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 21:46:09,250 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 21:46:09,250 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 21:46:11,250 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:11,250 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:11,250 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:11,250 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:11,250 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:11,250 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:11,250 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:11,250 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:11,251 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:11,251 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:12,251 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:12,251 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:12,251 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:12,251 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:12,251 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:12,251 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:12,251 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:12,251 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:12,251 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:12,251 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:13,251 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:13,251 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:13,251 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:13,251 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:13,251 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:13,251 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:13,252 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:13,252 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:13,252 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:13,252 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:14,252 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:14,252 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:14,252 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:14,252 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:14,252 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:14,252 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:14,252 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:14,252 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:14,252 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:14,252 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:15,252 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:15,252 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:15,252 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:15,252 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 21:46:15,252 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 21:46:15,252 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 21:46:15,252 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 21:46:15,252 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 21:46:15,252 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 21:46:15,253 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:15,253 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:15,253 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 21:46:15,253 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 21:46:15,253 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 21:46:15,253 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 21:46:17,253 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:17,253 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:17,253 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:17,253 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:17,253 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:17,253 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:17,254 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:17,254 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:17,254 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:17,254 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:18,253 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:18,253 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:18,253 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:18,254 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:18,254 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:18,254 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:18,254 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:18,254 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:18,254 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:18,254 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:19,254 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:19,254 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:19,254 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:19,254 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:19,254 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:19,254 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:19,254 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:19,254 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:19,255 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:19,255 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:20,255 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:20,255 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:20,255 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:20,255 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:20,255 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:20,255 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:20,255 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:20,255 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:20,255 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:20,255 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:21,255 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:21,255 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:21,255 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:21,255 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:21,255 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 21:46:21,255 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 21:46:21,255 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 21:46:21,256 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 21:46:21,255 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 21:46:21,256 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 21:46:21,255 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:21,256 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 21:46:21,256 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 21:46:21,256 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-15 21:46:21,256 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-15 21:46:23,256 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:23,256 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:23,256 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:23,256 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:23,256 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:23,256 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:23,256 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:23,256 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:23,256 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:23,256 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:24,256 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:24,256 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:24,256 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:24,256 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:24,257 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:24,257 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:24,257 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:24,257 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:24,257 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:24,257 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:25,257 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:25,257 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:25,257 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:25,257 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:25,257 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:25,257 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:25,257 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:25,257 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:25,257 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:25,257 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:26,257 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 21:46:26,257 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 21:46:26,257 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 21:46:26,257 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 21:46:26,257 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-15 21:46:41,055 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-15 21:46:41,055 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-15 21:46:41,055 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-15 21:46:41,056 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:41,056 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:41,056 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-15 21:46:41,056 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:41,056 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-15 21:46:41,056 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-17 05:40:42,793 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-17 11:13:51,360 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-17 11:14:00,301 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-17 11:14:44,981 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-17 18:19:52,911 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-17 18:19:52,911 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-17 18:19:52,911 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-17 18:21:52,159 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-17 21:18:07,519 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-18 01:08:13,164 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-18 01:08:31,179 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-18 01:08:36,843 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-18 01:10:02,177 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-18 01:11:25,140 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-18 01:11:26,575 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-18 06:39:11,541 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-18 06:41:07,740 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-18 06:41:55,076 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-18 18:55:29,355 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-19 05:39:39,875 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-19 05:52:53,903 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-19 06:10:26,959 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-19 06:10:26,959 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-19 06:10:26,959 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 06:13:11,785 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-19 06:20:15,903 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-19 06:34:57,460 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-19 06:38:49,832 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-19 06:38:49,833 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-19 06:38:49,833 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 06:39:14,493 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-19 06:40:41,305 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-19 08:37:27,906 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-19 13:21:27,055 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-19 13:21:27,055 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-19 13:21:27,055 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:21:28,056 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-19 13:21:28,056 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:21:29,056 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-19 13:21:29,056 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:21:30,056 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-19 13:21:30,056 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:21:31,057 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-19 13:21:31,057 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-19 13:21:31,057 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-19 13:21:33,057 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-19 13:21:33,057 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:21:34,058 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-19 13:21:34,058 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:21:35,058 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-19 13:21:35,058 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:21:36,058 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-19 13:21:36,058 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:21:37,059 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-19 13:21:37,059 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-19 13:21:37,059 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-19 13:21:39,059 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-19 13:21:39,059 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:21:40,059 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-19 13:21:40,059 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:21:41,060 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-19 13:21:41,060 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:21:42,060 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-19 13:21:42,060 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:21:43,060 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-19 13:21:43,060 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-19 13:21:43,060 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-19 13:21:45,061 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-19 13:21:45,061 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:21:46,061 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-19 13:21:46,061 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:21:47,061 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-19 13:21:47,061 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:21:48,062 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-19 13:21:48,062 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:21:49,062 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-19 13:21:49,062 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-19 13:21:49,062 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-19 13:21:51,062 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-19 13:21:51,275 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-19 13:22:19,564 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-19 13:22:19,664 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-19 13:22:24,404 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-19 13:22:24,404 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-19 13:22:24,405 - eww-notification-client - ERROR - Socket error: [Errno 104] Connection reset by peer
+2025-06-19 13:22:26,407 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-19 13:22:26,407 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:22:27,417 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-19 13:22:27,417 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:22:28,418 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-19 13:22:28,419 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:22:29,419 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-19 13:22:29,419 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:22:30,420 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-19 13:22:30,420 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-19 13:22:30,420 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-19 13:22:32,420 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-19 13:22:32,421 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:22:33,421 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-19 13:22:33,421 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:22:34,421 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-19 13:22:34,422 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:22:35,422 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-19 13:22:35,422 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:22:36,422 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-19 13:22:36,422 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-19 13:22:36,422 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-19 13:22:38,423 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-19 13:22:38,423 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:22:39,423 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-19 13:22:39,423 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:22:40,423 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-19 13:22:40,424 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:22:41,424 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-19 13:22:41,424 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:22:42,424 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-19 13:22:42,424 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-19 13:22:42,424 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-19 13:22:44,425 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-19 13:22:44,425 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:22:45,425 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-19 13:22:45,425 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:22:46,425 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-19 13:22:46,426 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:22:47,426 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-19 13:22:47,426 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-19 13:22:47,702 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-19 13:22:47,752 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-19 13:22:50,245 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-19 13:23:19,589 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-19 13:23:23,059 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-19 13:23:23,060 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-19 13:23:31,243 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-19 13:23:31,252 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-19 13:23:32,246 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-19 13:24:31,291 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-19 13:24:31,291 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-19 13:26:33,665 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-19 13:29:27,438 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-19 19:02:05,521 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-20 09:31:52,763 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-20 18:18:39,767 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-21 16:52:51,828 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-21 22:26:39,470 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-22 21:03:22,369 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-22 21:51:03,495 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-23 17:09:49,924 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-24 09:03:49,620 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-24 17:50:59,403 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-25 06:10:17,359 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-25 17:58:14,468 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-25 18:07:58,909 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-25 18:12:38,295 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-25 18:26:07,420 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-25 18:28:10,653 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-26 07:27:00,308 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-26 09:36:28,594 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-26 13:16:29,030 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-26 13:19:05,501 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-26 13:25:20,194 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-27 16:59:57,689 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-28 22:23:17,374 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-28 23:02:04,413 - eww-notification-client - WARNING - Socket connection closed by server
+2025-06-28 23:02:04,413 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-28 23:02:04,413 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-28 23:02:05,414 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-28 23:02:05,414 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-28 23:02:06,414 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-28 23:02:06,414 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-28 23:02:07,415 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-28 23:02:07,415 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-28 23:02:08,416 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-28 23:02:08,416 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-28 23:02:08,416 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-28 23:02:10,416 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-28 23:02:10,417 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-28 23:02:11,417 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-28 23:02:11,417 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-28 23:02:12,418 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-28 23:02:12,418 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-28 23:02:13,418 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-28 23:02:13,419 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-28 23:02:14,419 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-28 23:02:14,419 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-28 23:02:14,419 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-28 23:02:16,420 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-28 23:02:16,420 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-28 23:02:17,420 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-28 23:02:17,420 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-28 23:02:18,421 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-28 23:02:18,421 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-28 23:02:19,422 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-28 23:02:19,422 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-28 23:02:20,422 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-28 23:02:20,422 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-28 23:02:20,423 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-28 23:02:22,423 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-28 23:02:22,423 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-28 23:02:23,424 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-28 23:02:23,424 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-28 23:02:24,424 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-28 23:02:24,424 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-28 23:02:25,425 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-28 23:02:25,425 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-28 23:02:26,426 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-28 23:02:26,426 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-28 23:02:26,426 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-28 23:02:28,426 - eww-notification-client - WARNING - Connection attempt 1/5 failed: [Errno 111] Connection refused
+2025-06-28 23:02:28,426 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-28 23:02:29,427 - eww-notification-client - WARNING - Connection attempt 2/5 failed: [Errno 111] Connection refused
+2025-06-28 23:02:29,427 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-28 23:02:30,428 - eww-notification-client - WARNING - Connection attempt 3/5 failed: [Errno 111] Connection refused
+2025-06-28 23:02:30,428 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-28 23:02:31,428 - eww-notification-client - WARNING - Connection attempt 4/5 failed: [Errno 111] Connection refused
+2025-06-28 23:02:31,428 - eww-notification-client - INFO - Retrying in 1 seconds...
+2025-06-28 23:02:32,429 - eww-notification-client - WARNING - Connection attempt 5/5 failed: [Errno 111] Connection refused
+2025-06-28 23:02:32,429 - eww-notification-client - ERROR - Max retries reached, could not connect to socket
+2025-06-28 23:02:32,429 - eww-notification-client - ERROR - Socket error: [Errno 111] Connection refused
+2025-06-28 23:02:34,429 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-28 23:02:34,502 - eww-notification-client - INFO - Connected to notification daemon socket
+2025-06-29 00:04:38,577 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-29 00:04:43,575 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-29 00:05:01,059 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-29 00:05:06,065 - eww-notification-client - ERROR - Error processing notification: [Errno 32] Broken pipe
+2025-06-29 08:55:27,461 - eww-notification-client - INFO - Connected to notification daemon socket

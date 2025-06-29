@@ -17,22 +17,22 @@
         "format-source-muted": "",
         "format-icons": {
             "headphone": "",
-            "hands-free": "",
-            "headset": "",
             "phone": "",
             "portable": "",
             "car": "",
             "default": ["", "", ""]
         },
-        "on-click":"pactl set-sink-mute @DEFAULT_SINK@ toggle",
-        "on-click-right": "pulseaudio",
+        "on-click":"~/.config/hypr/script/change_volume.sh toggle",
+        "on-scroll-down": "~/.config/hypr/script/change_volume.sh decrease",
+        "on-scroll-up": "~/.config/hypr/script/change_volume.sh increase",
+        "on-click-right": "pulseaudio"
     },
 
     "custom/mem": {
         "format": "{}",
         "interval": 3,
         "exec": "free -h | awk '/Mem:/{printf $3}'",
-        "tooltip": false,
+        "tooltip": false
     },
 
     "temperature": {

@@ -1,0 +1,110 @@
+
+(defvar brightness_level 70)
+
+(defwindow backlight
+  :monitor 0
+  :geometry (geometry :x "20px"
+    :y "20px"
+  :anchor "bottom center")
+  :stacking "overlay"
+  :exclusive false
+  :windowtype "dialog"
+  (box :class "backlight-panel"
+    :orientation "v"
+    :space-evenly false
+    
+    ; Main content - chỉ hiển thị icon và slider
+    (eventbox :class "backlight-content"
+      :onhover "python ~/.config/eww/scripts/timer_client.py delete backlight"
+      :onhoverlost "python ~/.config/eww/scripts/timer_client.py add backlight 5 \"eww close backlight\""
+      (box
+        :orientation "h"
+        :space-evenly false
+        (label
+          :text {
+            brightness_level < 10 ? "" :
+            brightness_level < 20 ? "" :
+            brightness_level < 30 ? "" :
+            brightness_level < 40 ? "" :
+            brightness_level < 50 ? "" :
+            brightness_level < 60 ? "" :
+            brightness_level < 70 ? "" :
+            brightness_level < 80 ? "" :
+            brightness_level < 90 ? "" : ""
+          }
+          :class "backlight-icon"
+          :width 40
+        )
+        (overlay
+          :vexpand true
+          :hexpand true
+          (box :class "backlight-slider-container"
+            (scale :class "backlight-slider"
+              :value brightness_level
+              :min 1
+              :max 101
+            :onchange "eww update brightness_level={} && brightnessctl set {}%"))
+          (box :class "overlay"
+            (label :class "backlight-percentage-overlay ${brightness_level > 45 ? 'high' : 'low'}"
+              :text "${brightness_level}%"
+              :halign "center"
+            :valign "center")
+          )
+        )
+      )
+    )
+  )
+)
+
+
+(defvar volume_level 50)
+
+(defwindow volume-control
+  :monitor 0
+  :geometry (geometry :x "20px"
+    :y "20px"
+  :anchor "bottom center")
+  :stacking "overlay"
+  :exclusive false
+  :windowtype "dialog"
+  (box :class "backlight-panel"
+    :orientation "v"
+    :space-evenly false
+    
+    ; Main content - chỉ hiển thị icon và slider
+    (eventbox :class "backlight-content"
+      :onhover "python ~/.config/eww/scripts/timer_client.py delete volume-control"
+      :onhoverlost "python ~/.config/eww/scripts/timer_client.py add volume-control 5 \"eww close volume-control\""
+      (box
+        :orientation "h"
+        :space-evenly false
+        (label
+          :text {
+            volume_level < 20 ? " " :
+            volume_level < 40 ? " " :
+            volume_level < 60 ? " " :
+            volume_level < 80 ? " " : " "
+        }
+          :class "backlight-icon"
+          :width 40
+        )
+        (overlay
+          :vexpand true
+          :hexpand true
+          (box :class "backlight-slider-container"
+            (scale :class "backlight-slider"
+              :value volume_level
+              :min 1
+              :max 101
+            :onchange "eww update volume_level={} && pactl set-sink-volume @DEFAULT_SINK@ {}%"))
+          (box :class "overlay"
+            (label :class "backlight-percentage-overlay ${volume_level > 45 ? 'high' : 'low'}"
+              :text "${volume_level}%"
+              :halign "center"
+            :valign "center")
+          )
+        )
+      )
+    )
+  )
+)

@@ -1,2 +1,36 @@
 
-(defwindow test :monitor 0 :geometry (geometry :x "20px" :y "20px" :anchor "bottom right") :stacking "overlay" :exclusive false (box :orientation "vertical" :space-evenly false :spacing 10 :class "notifications-container" (box :class "notification-card" (eventbox :onclick "gdbus call --session --dest org.freedesktop.Notifications --object-path /org/freedesktop/Notifications --method org.freedesktop.Notifications.InvokeAction 32 'default'" (box :orientation "v" :space-evenly false :spacing 5 (box :orientation "h" :class "notification-header" :space-evenly false :spacing 5 (label :text "MyApp" :class "app-name" :limit-width 150 :hexpand true :xalign 0) (button :class "close-button" :onclick "gdbus call --session --dest org.freedesktop.Notifications --object-path /org/freedesktop/Notifications --method org.freedesktop.Notifications.CloseNotification 32" :height 30 :width 30 "✖")) ( box :orientation "v" :class "notification-body" :space-evenly false (label :class "notification-title" :halign "start" :text "Title") (label :justify "left" :wrap true :xalign 0 :yalign 0 :show-truncated false :class "notification-body" :halign "start" :text "This is a long text that will be used to test the notification system. This is a long text that will be used to test the notification system. This is a long text that will be used to test the notification system. This is a long text that will be used to test the notification system. This is a long text that will be used to test the notification system. This is a long text that will be used to test the notification system. This is a long text that will be used to test the notification system. This is a long text that will be used to test the notification system. This is a long text that will be used to test the notification system. This is a long text that will be used to test the notification system. ")) ( box :class "notificatios-actions" :spacing 5 (button :class "action-button" :height 30 :onclick "gdbus call --session --dest org.freedesktop.Notifications --object-path /org/freedesktop/Notifications --method org.freedesktop.Notifications.InvokeAction 32 'open'" "Open") (button :class "action-button" :height 30 :onclick "gdbus call --session --dest org.freedesktop.Notifications --object-path /org/freedesktop/Notifications --method org.freedesktop.Notifications.InvokeAction 32 'close'" "Close" )) ) ) ) ))
+
+(defvar monitor-review-content '')
+
+
+(defwindow quick-monitor-settings
+  :monitor 0
+  :stacking "fg"
+  :exclusive false
+  ;   :focusable true
+  :geometry (geometry
+    :x "5px"
+    :anchor "right center"
+    :height "490"
+  )
+    ; (literal :content monitor-review-content)
+    (box :class "quick-monitor-settings" (scroll :width "400" :vscroll true :halign "start" (box :class "monitor-review-container" :orientation "v" :spacing 5 (button :class "monitor-review-wrapper" :hexpand false :vexpand false :valign "start" (box :class "monitor-review-widget" :orientation "h" :spacing -80 (box :class "monitor-review" :space-evenly false :halign "start" (overlay :vexpand true :hexpand true (monitor-widget :name "eDP-1" :x 31 :y 25 :width 88 :height 50)(monitor-widget :name "HDMI-A-1" :x 31 :y 75 :width 88 :height 50) ) ) (box :class "monitor-info" (box :class "test-box" (label :class "monitor-label" :text "home" :halign "start" :wrap true ) ) ) ) ) (button :class "monitor-review-wrapper" :hexpand false :vexpand false :valign "start" (box :class "monitor-review-widget" :orientation "h" :spacing -80 (box :class "monitor-review" :space-evenly false :halign "start" (overlay :vexpand true :hexpand true (monitor-widget :name "eDP-1" :x 25 :y 47 :width 100 :height 56) ) ) (box :class "monitor-info" (box :class "test-box" (label :class "monitor-label" :text "normal" :halign "start" :wrap true ) ) ) ) ) (button :class "monitor-review-wrapper" :hexpand false :vexpand false :valign "start" (box :class "monitor-review-widget" :orientation "h" :spacing -80 (box :class "monitor-review" :space-evenly false :halign "start" (overlay :vexpand true :hexpand true (monitor-widget :name "eDP-1" :x 25 :y 61 :width 50 :height 28)(monitor-widget :name "HDMI-A-1" :x 75 :y 61 :width 50 :height 28) ) ) (box :class "monitor-info" (box :class "test-box" (label :class "monitor-label" :text "normal2" :halign "start" :wrap true ) ) ) ) ) ) ) )
+)
+
+(defwidget monitor-widget [name x y width height]
+  (box :class "box-x"
+    :vexpand false
+    :hexpand false
+    :halign "start"
+    :valign "start"
+    :orientation "v"
+    (box :class "content"
+      :style "margin-top: ${y}px; margin-left: ${x}px; min-width: ${width}px; min-height: ${height}px;"
+      (label :class "label"
+        :limit-width 5
+        :text "${name}"
+        :wrap false
+      )
+    )
+  )
+)

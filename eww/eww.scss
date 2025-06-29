@@ -1,3 +1,4 @@
+@import url('./test.scss');
 
 * {
   all: unset; // Unsets everything so you can style everything from scratch
@@ -205,6 +206,8 @@ window.notifications {
 
 .backlight-icon {
   color: #f9e2af;
+  font-size: 30px;
+  margin-right: 6px;
 }
 
 .backlight-percentage {

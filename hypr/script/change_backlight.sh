@@ -35,4 +35,6 @@ else
     percentage=$((current_brightness * 100 / max_brightness))
     # set eww variable
     eww update brightness_level=$percentage
+    python ~/.config/eww/scripts/timer_client.py set backlight 5
+
 fi

@@ -1,0 +1,134 @@
+
+; Biến đệm cho Bluetooth
+(defvar bluetooth_enabled true)
+(defvar bluetooth_scanning false)
+(defvar bluetooth_show_nearby false)
+
+
+; Danh sách thiết bị kết nối đã có (giả lập)
+(defvar bluetooth_connected_devices '[
+  {"name": "Sony WH-1000XM4", "type": "/usr/share/icons/AdwaitaLegacy/24x24/devices/audio-headphones.png", "battery": 80, "connected": true},
+  {"name": "Bluetooth Mouse", "type": "input-mouse-symbolic", "battery": 45, "connected": true},
+  {"name": "Keyboard K380", "type": "input-keyboard-symbolic", "battery": 90, "connected": true}
+]')
+
+
+; làm sao để thay đổi dữ liệu
+
+; Danh sách thiết bị lân cận (giả lập)
+(defvar bluetooth_nearby_devices '[
+  {"name": "JBL Speaker", "type": "audio-speakers-symbolic", "pairable": true, "connected": false},
+  {"name": "Xbox Controller", "type": "input-gaming-symbolic", "pairable": true, "connected": false},
+  {"name": "Samsung Galaxy", "type": "phone-symbolic", "pairable": true, "connected": false}
+]')
+
+; Widget hiển thị một thiết bị bluetooth
+(defwidget bluetooth-device [device]
+  (box :class "bluetooth-device ${device.connected ? 'connected' : ''}"
+    :space-evenly false
+    :spacing 10
+    (image :class "device-icon"
+    :path {device.type})
+    (box :orientation "v"
+      :space-evenly false
+      :hexpand true
+      (label :class "device-name"
+        :text {device.name}
+      :halign "start")
+      (label :class "device-status"
+        :text {device.connected ? "Connected" : "Available"}
+      :halign "start"))
+    (box :visible {device.battery != "null" && device.battery != ""}
+      (label :class "device-battery"
+      :text "${device.battery}%"))
+    (button :class "device-action disconnect-button"
+      :visible {device.connected}
+      (label :text "✕")
+    )
+    (button :class "device-action"
+      :visible {!device.connected && device.pairable}
+    "Connect")))
+
+; Dropdown Bluetooth
+(defwindow bluetooth-dropdown
+  :monitor 0
+  :geometry (geometry :x "20px"
+    :y "20px"
+  :anchor "top right")
+  :stacking "overlay"
+  :exclusive false
+  :windowtype "dialog"
+  (box :class "bluetooth-panel"
+    :orientation "v"
+    :space-evenly false
+    ; :spacing 10
+    
+    ; Header with toggle
+    (box :class "bluetooth-header"
+      :space-evenly false
+      :spacing 10
+      (label :class "bluetooth-title"
+        :text "Bluetooth"
+        :halign "start"
+      :hexpand true)
+      (button :class "bluetooth-toggle"
+        :onclick "eww update bluetooth_enabled=${!bluetooth_enabled}"
+        (box :class "toggle ${bluetooth_enabled ? 'active' : ''}"
+          (label :text {bluetooth_enabled ? "ON" : "OFF"}))))
+    
+    ; Status
+    (box :class "bluetooth-status"
+      :space-evenly false
+      :spacing 5
+    )
+    
+    ; Connected devices section
+    (box :class "bluetooth-connected-devices"
+      :orientation "v"
+      :visible bluetooth_enabled
+      :space-evenly false
+      (label :class "section-title"
+        :text "Connected Devices"
+      :halign "start")
+      (box :class "device-list"
+        :orientation "v"
+        :space-evenly false
+        (for device in bluetooth_connected_devices
+          (bluetooth-device :device device))))
+    
+    ; Separator
+    (box :class "separator"
+    :height 1)
+    
+    ; Nearby devices section
+    (box :class "bluetooth-nearby-devices"
+      :orientation "v"
+      :visible {bluetooth_enabled && bluetooth_show_nearby}
+      :space-evenly false
+      (box :class "nearby-header"
+        :space-evenly false
+        (label :class "section-title"
+          :text "Nearby Devices"
+          :halign "start"
+        :hexpand true)))
+    
+    ; Nearby devices list
+    (box :class "device-list"
+      :orientation "v"
+      :visible {bluetooth_enabled && bluetooth_show_nearby}
+      :space-evenly false
+      (for device in bluetooth_nearby_devices
+        (bluetooth-device :device device)))
+    
+    ; Scan button at bottom
+    (button :class "scan-button"
+      :visible bluetooth_enabled
+      :onclick "eww update bluetooth_scanning=true bluetooth_show_nearby=true && sleep 2 && eww update bluetooth_scanning=false"
+      (box :space-evenly false :spacing 5
+        (label :text {bluetooth_scanning ? "Scanning..." : "Scan for devices"})
+        (circular-progress :value {bluetooth_scanning ? 100 : 0}
+          :class "scan-progress"
+          :start-at 75
+          :thickness 3
+        :clockwise true)))
+  ))

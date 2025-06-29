@@ -1,0 +1,47 @@
+.quick-monitor-settings {
+    background-color: transparent;
+    padding: 8px;
+}
+
+.monitor-review-container {
+    padding: 5px;
+    border-radius: 12px;
+}
+
+.monitor-review-widget {
+    color: #c6d0f5;
+}
+
+.monitor-review-wrapper {
+    border-radius: 12px;
+    background-color: #2d3549;
+    border: 1px solid #516a6d;
+}
+
+.monitor-review-wrapper:focus {
+    border: 1px solid #0aad2d;
+}
+
+.monitor-review {
+    min-width: 150px;
+    min-height: 150px;
+    border-right: 1px solid #516a6d;
+}
+
+.content {
+    border: 1px solid #576d51;
+    border-radius: 8px;
+    font-size: 10px;
+    color: #c6d0f5;
+}
+
+
+.monitor-info {
+    padding-left: 10px;
+}
+
+.monitor-label {
+    font-weight: bold;
+    font-size: 15px;
+    color: #8caaee;
+}
